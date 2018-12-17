@@ -26,7 +26,10 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
+<<<<<<< HEAD
 	<!--springboot插件-->
+=======
+>>>>>>> 6f11d46a1749acbc57e7c5417eef165253725ab3
     <build>
         <plugins>
             <plugin>
